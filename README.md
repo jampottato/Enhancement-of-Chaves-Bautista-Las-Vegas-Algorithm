@@ -60,7 +60,7 @@ Erispe, F. Eivan
 
 This study is published under the [Publication License] (LICENSE).
 
-## Authours Noe
+## Authors Note
 
 This Repositorie only showcase the simulation of Las Vegas Algoirthm. Under the Documentation folder, you can see the instructions how to extract the dataset for the simulation, and the IMRAD of our study.
 
